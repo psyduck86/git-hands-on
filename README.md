@@ -1,5 +1,7 @@
 # Git Hands-On Workshop
 
+# My favorite number is π
+
 ## 0. PowerShell Prep
 
 ```powershell
